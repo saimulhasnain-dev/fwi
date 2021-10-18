@@ -19,6 +19,7 @@ Also, be sure to have `git` available in your PATH, `npm` might need it (You can
 
       $ sudo apt install nodejs
       $ sudo apt install npm
+      $ npm install -g nodemon //for running application
 
 - #### Other Operating Systems
   You can find more information about the installation on the [official Node.js website](https://nodejs.org/) and the [official NPM website](https://npmjs.org/).
@@ -51,6 +52,4 @@ Open `.env` then edit it with your settings.
     $ npm start
     or
     $ nodemon
-## If you have not installed nodemon in your machine. You can install by running the following command
-  
-    $ npm install -g nodemon
+
